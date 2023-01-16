@@ -19,4 +19,4 @@ This is a basic network mapper written in Python that allows you to scan for ali
 
 * By default, the script will scan for hosts on the same network as the machine running the script. You can change this by modifying the ip_range variable in the main function.
 * The script uses the ping command to check for alive hosts, which may not work on all operating systems.
-*This script is for educational purpose only, you may want to check your company or network security policy before run it.
+* This script is for educational purpose only, you may want to check your company or network security policy before run it.
