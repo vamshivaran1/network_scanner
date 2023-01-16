@@ -1,6 +1,6 @@
 # Contributing
 
-We welcome contributions to the network mapper script. There are many ways to contribute, from writing tutorials or blog posts, improving the documentation, submitting bug reports and feature requests, or writing code which can be incorporated into the network mapper script itself.
+I welcome contributions to the network mapper script. There are many ways to contribute, from writing tutorials or blog posts, improving the documentation, submitting bug reports and feature requests, or writing code which can be incorporated into the network mapper script itself.
 
 ## Reporting Bugs
 
