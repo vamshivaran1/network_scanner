@@ -1,4 +1,3 @@
-```
 import os
 import socket
 
@@ -35,4 +34,4 @@ if __name__ == "__main__":
     print("Scanning network...")
     alive_hosts = scan_network(ip_range)
     print("Alive hosts: " + str(alive_hosts))
- ```
+
